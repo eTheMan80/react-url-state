@@ -1,0 +1,124 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "title": "Four double bedroom townhouse",
+      "description": "Magnificent four bedroom townhouse of just under 2,500 ft, set in a prestigious development on the outskirts of the bustling Bromley town centre",
+      "price": "1200",
+      "location": "Bromley",
+      "image": "image1.jpeg"
+    },
+    {
+      "id": "2",
+      "title": "Detached Victorian Home",
+      "description": "Imposing even when it was built in 1853 as a double-fronted detached home, it’s now triple-fronted and set well back from the road with views across the heath, complete with gated entrance, ample parking, double garage and a meticulously-restored exterior",
+      "price": "2500",
+      "location": "Lewisham",
+      "image": "image2.jpeg"
+    },
+    {
+      "id": "3",
+      "title": "Keston Park Home",
+      "description": "A home of a transporting quality can be found on this coveted private road within the gated Keston Park estate. The design, by Jason Good Architecture, has sympathetically reinvented and substantially extended an elegant Arts and Crafts house to create an exceptional, contemporary six-bedroom home of over 5,000 sq ft.",
+      "price": "4950",
+      "location": "Bromley",
+      "image": "image3.jpeg"
+    },
+    {
+      "id": "4",
+      "title": "Truly exceptional Grade II listed house",
+      "description": "An outstanding Grade II listed Queen Anne house, of substantial scale and proportions, positioned in one of the areas most prestigious locations.",
+      "price": "4850",
+      "location": "Greenwich",
+      "image": "image4.jpeg"
+    },
+    {
+      "id": "5",
+      "title": "Park-side Brunswick House",
+      "description": "You will occupy an impressive and quiet sizeable corner plot, with a wonderful walled wraparound garden, and park and church spire vistas. The deep and wide rear garden (splendidly facing south-east) has a swimming pool, and both a generous lawn and a raised terrace (accessed from the main house).",
+      "price": "4250",
+      "location": "Camberwell",
+      "image": "image5.jpeg"
+    },
+    {
+      "id": "6",
+      "title": "Manor Way Home",
+      "description": "An extraordinary and rare opportunity to own a meticulously restored arts & crafts residence, expertly envisioned by the esteemed architect, Francis Hooper. Nestled within the secluded embrace of a secure 0.69 acre plot on what is arguably Beckenham's most prestigious road, this home epitomizes refined elegance and exclusivity.",
+      "price": "4000",
+      "location": "Beckenham",
+      "image": "image6.jpeg"
+    },
+    {
+      "id": "7",
+      "title": "Dulwich Village Home",
+      "description": "A magnificent Grade II listed Georgian property built in 1760 with a large front garden, driveway and south-west facing rear garden, in a very prestigious part of Dulwich Village. The house has been thoughtfully maintained and extended, and properties such as this rarely come to the market. Set back from the road, the house has five bedrooms and is in an excellent location for the Dulwich Village primary schools as well as Charter School, Alleyn`s, JAGS and Dulwich College.",
+      "price": "3900",
+      "location": "Dulwich",
+      "image": "image7.jpeg"
+    },
+    {
+      "id": "8",
+      "title": "Chapel Street Home",
+      "description": "United Kingdom Sotheby's International Realty are proud to present this newly renovated six-bedroom freehold townhouse in the heart of Belgravia. The exceptional property seamlessly blends Georgian elegance with modern design, creating a house of unparalleled sophistication.",
+      "price": "2800",
+      "location": "London",
+      "image": "image8.jpeg"
+    },
+    {
+      "id": "9",
+      "title": "Elsworthy Road Home",
+      "description": "This home is offered to the market for the first time in over 40 years and although in need of modernisation, offers impressive reception areas, exceptional bedroom accommodation, two garages, further off street parking and a large garden with a gate to Primrose Hill.",
+      "price": "2500",
+      "location": "London",
+      "image": "image9.jpeg"
+    },
+    {
+      "id": "10",
+      "title": "Winnington Road Home",
+      "description": "Arranged over four floors, the property has 16,749 sq. ft. (1,559 sq. m.) of interior designed accommodation comprising a breath-taking grand entrance atrium, luxurious and spacious accommodation for entertaining, and 6 bedroom suites including a principal bedroom with an oversized bathroom and dressing room.",
+      "price": "2490",
+      "location": "Lewisham",
+      "image": "image10.jpeg"
+    },
+    {
+      "id": "11",
+      "title": "Mill Road House",
+      "description": "Welcome to this distinctive 2-floor home, offering a comfortable living space distributed in 1227.09 square feet. The ground floor boasts numerous amenities, including a spacious lounge open to the dining area. A full bathroom with a bath is conveniently located on the same level, along with a lean-to. The kitchen comes fully equipped with integral oven and hob, ready to be used for creating delicious meals. The first floor expands the living space with 3 separate bedrooms.",
+      "price": "2250",
+      "location": "Frindsbury",
+      "image": "image11.jpeg"
+    },
+    {
+      "id": "12",
+      "title": "Priestfields Home",
+      "description": "This property comprises of lovely open entrance hallway with oak flooring, oak and glass 'Y' staircase, downstairs cloakroom, utility room with sink and storage cupboard, sitting room also with oak flooring, open plan kitchen, real entertaining space dining area and lounge.",
+      "price": "1400",
+      "location": "Rochester",
+      "image": "image12.jpeg"
+    },
+    {
+      "id": "13",
+      "title": "Abbotts Close Home",
+      "description": "In a much sought after location overlooking the Foord Almshouses, this substantial detached house with annexe, built for the current owners in 2001, is set on a plot of approximately 1/3 of an acre. The main house has five bedrooms, the principal bedroom has a view across the River Medway valley, a dressing room and en-suite shower room, there are two further en-suites and a family bathroom set off the large galleried landing.",
+      "price": "1300",
+      "location": "Rochester",
+      "image": "image13.jpeg"
+    },
+    {
+      "id": "14",
+      "title": "Sharnal Street Home",
+      "description": "Nestled within the serene embrace of a semi-rural village setting, this magnificent detached residence sits stately, offering a lifestyle of luxury and space. Spanning over 4500 sqft on an expansive 1.3 acres, this prestigious five bedroom, detached property exudes grandeur and sophistication at every turn.",
+      "price": "1100",
+      "location": "Kent",
+      "image": "image14.jpeg"
+    },
+    {
+      "id": "15",
+      "title": "Court Road Home",
+      "description": "An exquisite Victorian residence with an embodiment of classic charm fused with modern luxury. This circa 6000sqft detached villa occupied a substantial west facing plot on a desirable road in Eltham. This wonderful home is surrounded by timeless British heritage. Your prestigious neighbours include England's oldest golf club, The Royal Blackheath which is directly across the road, and the enchanting moated Eltham Palace, once the childhood abode of Henry the VIII located immediately behind The Beeches. Immerse yourself in the feeling of a country home in London.",
+      "price": "3750",
+      "location": "Blackheath",
+      "image": "image15.jpeg"
+    }
+  ]
+}

@@ -8,14 +8,10 @@ import './App.css'
 function App() {
   const {search, location, price} = usePropertyFilters()
 
-  const { data, isFetching, isLoading} = useQuery({
+  const { data, isFetching} = useQuery({
     queryKey: ['property', {search, location, price}],
     queryFn: () => fetchProperty({search, location, price})
   })
-
-  console.log('data', data)
-  console.log('isFetching', isFetching)
-  console.log('isLoading', isLoading)
 
   return (
     <div className="flex flex-col gap-2">
